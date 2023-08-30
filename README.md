@@ -1,5 +1,4 @@
-# MY SHORT INTRODUCTION
-Hi, everyone.
-<br><br>
+# Hi, everyone
+
 I'm <b>GAYATHRI A E</b>, a Python Developer
 
